@@ -1,6 +1,8 @@
 # Crowdfunding
 
 1 Introduction
+
+
 1.1 What is crowdfunding?
 Crowdfunding is the practice of funding a project or venture by raising money
 from a large number of people, typically via the internet.
